@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace les8Task1Task2
+namespace les7Task1
 {
     abstract class Shape
     {
